@@ -1,3 +1,3 @@
 # Live Preview 
 
-https://expense-app-react-js.netlify.app/
+https://expense-app-reactjs.vercel.app/
