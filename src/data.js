@@ -26,7 +26,7 @@ export const INITIAL_EXPENSES = [
   },
   {
     id: "e6",
-    title: "Bycicle",
+    title: "Bicycle",
     amount: 350,
     date: new Date(2020, 6, 1),
   },
